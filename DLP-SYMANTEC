@@ -1,0 +1,16 @@
+Symantec
+Headquartered in Mountain View, California, Symantec has been in the DLP market since its acquisition of Vontu in 2007. Symantec recently released Symantec Data Loss Prevention 14.5, and has product components for DLP Enforce Platform, DLP IT Analytics, Cloud Storage (supporting over 65 cloud applications), Cloud Prevent for Microsoft Office 365, DLP for Endpoint, DLP for Mobile, DLP for Network and DLP for Storage, as well as DLP API support for third-party security technologies, such as content extraction, reporting and FlexResponse for encrypting content or applying DRM. Symantec continues to invest in and improve the DLP technology in its Information Protection business unit.
+In 2016, Symantec acquired Blue Coat which gives it CASB capabilities from Blue Coat's acquisition of Elastica and Perspecsys, for which there are DLP policy integrations via a bidirectional REST API between Elastica and Symantec DLP.
+Symantec is a suitable choice for organizations that require advanced detection techniques and integration with CASB for data security policy uniformity.
+Strengths
+
+    Symantec offers the most comprehensive sensitive data detection techniques in the market, with advanced functionality such as form detection, image analysis and handwriting recognition that can cover a wide breadth of data loss scenarios.
+    Symantec supports a hybrid deployment model for several of its DLP products in which detection servers deployed to AWS, Azure or Rackspace connect to an on-premises DLP Enforce platform.
+    Symantec's SmartResponse system offers a wide range of administrative flexibility based upon content actions matching a DLP policy.
+    Its DLP Vector Machine Learning (VML) allows customers to train the DLP system by providing both positive and negative content examples. This could be valuable when traditional pattern matching methods are not sufficient to accurately match content.
+
+Cautions
+
+    Symantec clients have expressed frustration when trying to buy or renew the Data Insight add-on for Symantec DLP, which is now owned by Veritas. Ensure that your Symantec DLP reseller can also resell Veritas Data Insight if you are interested in this add-on.
+    Monitoring and discovery of sensitive data in cloud applications requires both DLP endpoint discovery and the required Symantec CASB Connectors in order to achieve full functionality.
+    Clients express concern with the overall deployment cost of Symantec DLP, when compared with competing products.
