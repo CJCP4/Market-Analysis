@@ -1,0 +1,18 @@
+Forcepoint
+
+In 2015, Raytheon and Vista Equity Partners completed a joint venture that combines Websense, a Vista Equity portfolio company, and Raytheon Cyber Products. In 2016, the company acquired two firewall product lines from Intel Security — Stonesoft and Sidewinder — and relaunched the combined company as Forcepoint. Raytheon owns a majority share of Forcepoint, while Vista Equity Partners maintains a minority interest.
+Based in Austin, Texas, Forcepoint has been considered a leader in the enterprise DLP market for several years now, previously as Raytheon-Websense. The Forcepoint DLP product line includes Forcepoint DLP Discover, Forcepoint DLP Gateway, Forcepoint Cloud Applications, and Forcepoint DLP Endpoint. In February 2017, Forcepoint announced the intent to acquire the Skyfence cloud access security broker (CASB) business from Imperva.
+From years of delivering enterprise DLP, and integrated DLP modules for its secure web and email gateway products, Forcepoint has built out a compelling enterprise DLP suite to cover network, endpoints and data discovery (both on-premises and in the cloud), with a particular focus on intellectual property protection and regulatory compliance policy implementation.
+Forcepoint is a suitable choice for organizations with both regulatory compliance and intellectual property protection requirements, or for organizations that want to deploy DLP virtual appliances within the Azure public cloud infrastructure.
+Strengths
+
+    Forcepoint DLP Endpoint can automatically encrypt/decrypt files via Microsoft RMS without removing RMS protections based on endpoint data in use, data in motion and discovery rules.
+    Forcepoint offers its enterprise DLP policy engine from a multitenant cloud-based infrastructure.
+    Forcepoint provides over 350 predefined policies and an embedded UEBA component for additional security analytics features that perform incident risk ranking, identify insider threats, highlight compromised endpoints and calculate data theft risk indicators to identify the riskiest users and activities.
+    Structured data fingerprinting, particularly support for data fingerprinting in Salesforce, is cited by clients as a key differentiator.
+
+Cautions
+
+    Clients have reported technical support issues related to structured data fingerprinting. If you require structured data fingerprinting of data in a database, ensure that you thoroughly test this capability with live data in your specific database environment.
+    Raytheon's involvement in the defense market will help reinvigorate Forcepoint with additional intelligence and products. However, there is not a successful track record of security vendors owned by defense contractors parlaying that success into commercial markets.
+    Forcepoint's relevance in some geographies may be problematic due to Raytheon's strong U.S. allegiance and federal government focus. Some Gartner clients have noted this objection, and you should check whether this is a cause for concern in your organization.
