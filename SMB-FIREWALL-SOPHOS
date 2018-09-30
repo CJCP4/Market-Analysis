@@ -1,0 +1,70 @@
+Sophos
+Sophos remains a Leader this year because of its strong ongoing focus on enhancing advanced malware
+prevention capabilities through its firewalls and endpoint platform integration. It continues to be the market
+leader, offering mature and integrated management, monitoring and visibility capabilities of endpoints through a
+single console of its UTM offering, which provides ease of management and better prevention against advanced
+malware.
+Sophos is a network and endpoint security vendor headquartered in Abingdon, U.K. Sophos’ portfolio includes
+firewalls (XG Series, the older SG Series and CR series). Sophos has 19 XG models and three Remote Ethernet
+Devices (RED) models, which are plug-and-play devices for small offices. It still sells its old product lines, the SG
+and CR firewall Series. It also offers a number of other security solutions for endpoint security, wireless access
+point (Sophos AP Series), and unified endpoint management (Sophos Mobile). Sophos Firewall Manager (SFM)
+is the name of the centralized management software, and Sophos Central is the cloud-based centralized
+management portal for all Sophos security products.
+Recent updates include a new version 17 for XG Firewall with enhanced application control leveraging endpoint
+integration, as well as an update to its Sandstorm cloud sandbox solution with integration from its nextgeneration
+endpoint product (Intercept X).
+Sophos is a good shortlist candidate for SMBs that are looking for multiple integrated features, such as email and
+web DLP, email encryption, and a web application firewall in their firewall. Sophos is also a good candidate for
+SMBs looking for strong and mature endpoint integration capabilities within their UTM solutions for ease of
+management and correlation of events.
+
+Strengths
+Sales Execution: Sophos Cloud Firewall Manager is Sophos’ cloud-based centralized management solution
+Sophos https://www.gartner.com/technology/media-products/newsletters/sophos/...
+13 de 28 27/09/2018 22:39
+for partners to manage multiple firewalls across their customer deployments free of charge. The capabilities of
+Sophos Cloud Firewall Manager include a majority of the features available with the on-premises centralized
+management offering, which makes it easier for a partner to manage the firewalls.
+Sales Strategy: Sophos has a strong channel strategy, with a loyal channel base globally. It conducts regular
+partner-training and information-sharing programs worldwide. Gartner has seen that this channel has strong
+confidence in the Sophos team and its sales strategy, especially postacquisition of Cyberoam. Sophos’
+presales team receives positive reviews for working directly with the clients in regions like India and the
+Middle East, and is often scored high by customers.
+Market Responsiveness: Sophos continues to increase the visibility, detection and response capabilities of
+advanced threats to meet growing market requirement. It has also made enhancements to existing application
+control features in the firewalls for better visibility and control. Sophos also acquired Barricade for improving
+security analytics capabilities, and has integrated the deep learning capabilities of Invincea into its sandboxing
+product Sandstorm.
+Product: Sophos XG Firewalls offer multiple security features within their UTM solution that appeal to SMBs.
+This includes built-in web application firewalls, DLP-based encryption for emails and strong endpoint
+integration.
+Customer Experience: Surveyed Sophos customers have mentioned strong firewall and endpoint integration
+as the product’s biggest strength, and also have indicated high satisfaction for the malware detection rate.
+This is because, in addition to traditionally managing the endpoint centrally from within the firewall UI, it has
+built strong advanced threat monitoring and response capabilities, using its Security Heartbeat feature, which
+is a part of its Synchronized Security system.
+Capability: Sophos has strong ransomware detection capabilities and constantly works toward improving it.
+Sophos shares threat and health-related intelligence between endpoints and firewalls using its Synchronized
+Security feature, to correlate and identify compromised systems. This enables the firewall to automatically
+isolate them to prevent the movement of ransomware. Recently, Sophos has announced Synchronized
+Application Control, another feature of Synchronized Security that utilizes the endpoint to provide added
+visibility into network application traffic.
+
+
+Cautions
+Product Strategy: Despite selling three firewall product lines, XG, SG and CR, Sophos continues to focus on
+enhancing the features of the XG Series. SG and CR Series are still supported by the vendor, and Sophos
+recently refreshed its SG and XG firewall series. Gartner recommends that clients carefully evaluate the
+roadmap and firmware updates in case they still want to make new purchases of CR Series and SG Series,
+because of product familiarity.
+Customer Feedback: Gartner has noted declining customer satisfaction, particularly about ease of
+deployment and management of the XG Series.
+Capabilities: Sophos does not offer a dedicated SD-WAN feature and lacks dynamic, application-centric path
+selection. However, it does offer limited SD-WAN-related features such as QoS, link balancing (based on
+volume [weight]), sessions, protocol and a source/destination IP/port.
+Capabilities: Sophos currently lacks a centralized cloud management portal for end users. It offers Sophos
+Cloud Firewall Manager, which provides centralized cloud-based management only to its partners.
+Customer Experience: Surveyed customers rated Sophos’ UTM solution limited in on-box reporting
+capabilities. Based on customer feedback, the built-in interface of the appliance is very limited. To get better
+reporting out of all the Sophos platform, customers need to use iView.
