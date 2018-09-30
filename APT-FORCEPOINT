@@ -1,0 +1,52 @@
+Forcepoint, is a Raytheon and Vista Equity Partners joint venture, formed in 2015 through the
+merger of Websense and Raytheon Cyber Products. In 2017, Forcepoint acquired the Skyfence
+CASB business from Imperva, as well as RedOwl, a vendor of User and Entity Behavior
+Analytics (UEBA).
+SOLUTIONS
+Forcepoint’s APT solution, Forcepoint Advanced Malware Detection (AMD) is a scalable,
+easy-to-deploy, behavioral sandbox that identifies targeted attacks and integrates with Forcepoint
+Web Security, Forcepoint Email Security, Forcepoint CASB, and Forcepoint Next Generation
+Firewall products. Forcepoint partners with Lastline, a sandbox technology vendor, to provide its
+Forcepoint AMD capability. Forcepoint AMD is available as a cloud-based solution, or as an
+appliance. It provides file and email URL sandboxing, detailing forensic reporting and phishing
+education. All Forcepoint products work together as part of what the vendor calls, the Human
+Point System, which focuses on the intersection of human behavior analysis and data.
+There are currently two types of AMD offerings:
+• AMD Cloud (Previously known as Threat Protection Cloud) – is a SaaS solution that
+integrates out of the box with Forcepoint Web Security, Email Security, CASB, and NGFW
+products.
+• AMD On Premises (Previously known as Threat Protection Appliance) – is an onpremises
+appliance-based solution that integrates out of the box with Forcepoint Web
+Security, Email Security, and Next Generation Firewall products.
+
+STRENGTHS
+• Forcepoint offers a broad set of integrated security solutions spanning Web, Email, DLP,
+Insider Threat, Cloud Applications and firewalls, with threat intelligence that is shared and
+applied across all channels.
+• Forcepoint’s flexible packaging allows customers to purchase the product and features they
+need, and add more advanced capabilities over time as threats and needs evolve.
+• Forcepoint User and Entity Behavior Analytics (UEBA), enables security teams to
+proactively monitor for high-risk behavior inside the enterprise. The security analytics
+platform provides context information by fusing structured and unstructured data to identify
+and disrupt malicious, compromised and negligent users.
+• Forcepoint’s CASB product provides deep visibility into the usage of cloud applications like
+Office 365, Google G Suite, Salesforce and others.
+• Forcepoint offers its own context-aware DLP, which provides enterprise-class data theft
+protection across endpoints, Web and Email gateways, as well as networked and cloud
+storage. Advanced detection techniques, such as OCR (Optical Character Recognition),
+‘Drip-DLP’, and encrypted payloads ensure effectiveness.
+
+WEAKNESSES
+• Forcepoint does not yet offer AMD protection for endpoints. However, the vendor has this on
+the roadmap for later in 2018.
+• Forcepoint needs to integrate the Forcepoint Insider Threat and Forcepoint NGFW products
+with its Web Security and Email Security products, as well as with third-party solutions, as it
+builds out its next generation platform vision.
+• For remediation, Forcepoint solutions currently provide identification, blocking and alerts of
+compromise, but do not provide malware removal or device re-imaging.
+• Forcepoint needs to continue to innovate with advanced protection for malware attacks and
+data theft aimed at roaming endpoints.
+• Forcepoint does not provide and EDR solution. However, Forcepoint AMD can tie into third
+party EDR solutions through custom integrations.
+• Forcepoint needs to provide predictive, actionable threat intelligence reporting across the
+entire threat lifecycle.
