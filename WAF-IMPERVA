@@ -1,0 +1,91 @@
+Imperva
+Imperva is in the Leaders quadrant. The vendor is one of the most visible in both the appliance and cloud WAF
+service segments. Imperva frequently wins on the basis of security features and innovation. Imperva can provide
+strong WAF functionality as a traditional appliance and cloud WAF service, but faces stronger competition for its
+cloud offering.
+Imperva is an application, database and file security vendor, with headquarters in Redwood Shores, California. Its
+portfolio includes database security products (SecureSphere Data Protection and Database Audit and
+CounterBreach), a WAF appliance (SecureSphere WAF), and a cloud WAF service (Incapsula). Imperva also offers
+managed security services and managed SOC.
+SecureSphere can be delivered as physical and virtual appliances. It is also available on AWS and Microsoft Azure
+marketplaces. The vendor also offers managed rule sets for AWS WAF.
+In recent months, Imperva saw changes in its executive team, including a new CEO and CFO, followed by an internal
+reorganization to refocus on a cloud-first strategy. The company recently announced the acquisition of Prevoty, a
+RASP vendor. The vendor continued its investment in Incapsula infrastructure with new points of presence, refreshed
+some SecureSphere hardware appliances, and released Attack Analytics, a new real-time event management
+solution for Imperva SecureSphere and Incapsula.
+Imperva is a good shortlist candidate for all kind of organizations, especially large enterprises looking for highsecurity
+WAF appliances, or organizations planning to transition their applications from on-premises to the cloud.
+Cloud WAF Service: Fortinet has been late releasing a first version of a cloud WAF service, which is still
+unproven, especially in its ability to avoid and mitigate false alerts. FortiWeb Cloud has more limited capabilities
+than its appliance counterpart, and it lacks available peer references.
+■
+Organization: The vendor has a modest increase of its WAF R&D department this year. Its investment in WAF
+remains less important than for other products in Fortinet’s portfolio, and is relatively small, compared with some
+of its direct competitors.
+■
+Market Segmentation: Fortinet is not yet visible in shortlists for web-scale organizations trying to protect their
+core business-critical applications, and for cloud-native web applications that heavily leverage continuous
+integration.
+■
+Customer Experience: Some customers would like Fortinet to go one step further and unify the centralized
+management for WAF and firewall. Today, you need two separate management platforms for FortiWeb and
+FortiGate. They also would like better documentation in the form of “how-to,” especially on recent features, and
+better change control.
+■
+Capabilities: FortiWeb lags behind leaders in bot mitigation. The vendor does not offer, nor does it integrate with
+DDoS protection service.
+■
+Capabilities: FortiWeb’s machine learning does not work in high-availability deployments. In the initial version, the
+UI exposes a lot of the internal mechanics behind the machine learning engine. Although it compares nicely with
+other vendors’ “black box” approaches, and this helps with the credibility of the engine, which can be intimidating
+and lengthen the learning curve.
+■
+Strengths
+Cautions
+Marketing Strategy: Imperva’s offers a flexible licensing for organizations with a mix of on-premises and cloudhosted
+applications. It allows the vendor to target a wider range of use cases and organizations, and to better
+manage the transition from WAF appliance to cloud WAF service.
+■
+Sales Execution: Imperva is one of the only vendors providing both WAF appliances and cloud WAF service to
+achieve strong visibility in shortlists and large customer bases for both segments.
+■
+Customer Experience: Gartner clients using SecureSphere continue to praise customer support. They’ve noted
+some improvements in Incapsula’s bot mitigation.
+■
+Capabilities: Incapsula and SecureSphere benefit from the shared threat intelligence ■ from ThreatRadar.
+Capabilities: Imperva has recently released attack analytics to get unified and improved monitoring for
+SecureSphere and Incapsula. The vendor has also made available a first version of role-based administration for
+Incapsula.
+■
+Geographic Strategy: Imperva has strong WAF presence in most geographies, and offers effective support across
+most regions. Recent presence has been especially strong in the APAC region.
+■
+Market Responsiveness: Imperva is experiencing a lot of organizational changes, which could be the source of a
+slower pace of release, especially for the SecureSphere product line.
+■
+Cloud WAF Service: Customers wish that Incapsula supported single sign-on (SSO) features, such as SAML 2.0.
+They also would like better and more-flexible canned reports.
+■
+Capabilities: Customers considering Incapsula to replace SecureSphere often notice the lack of feature parity.
+The cloud WAF service cannot yet match the depth and breadth of security function covered by the appliance
+product line.
+■
+Pricing: SeveralGartner clients cited higher-than-competitive prices for Imperva WAF SecureSphere, and to a
+lesser extent for Incapsula.
+■
+Cloud WAF Service: Incapsula’s infrastructure does not include any point of presence in China, and its
+infrastructure lags behind other cloud-native WAF services in South America and Africa.
+■
+Customer Experience (WAF Appliance): SecureSphere customers report that the management console remains
+complex when using the more advanced capabilities. Customers frequently mentioned that deployment often
+requires professional services to effectively implement the offerings at scale. They also would like to see closer
+integration between Attack Analytics and the WAF management consoles, and more-unified management
+capabilities between SecureSphere and Incapsula.
+■
+Customer Experience (Cloud WAF Service): Some customers complain about Incapsula’s limited cross-sites and
+multidomain management and reporting, especially when multiple applications share the same IP address.
+Surveyed customers and resellers indicated that they did not get the same quality of support for Incapsula,
+compared with what they are accustomed to with Securesphere. They cite too many canned and not necessarily
+helpful answers as a first response when contacting support.
+■
