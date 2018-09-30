@@ -1,0 +1,87 @@
+Sophos provides IT and data security solutions for businesses on a worldwide basis. SophosLabs
+is the R&D division behind the vendor’s advanced security, data science, and malware research.
+Sophos provides synchronized security solutions, that include endpoint and mobile security,
+enterprise mobility management, encryption, server protection, secure email and web gateways,
+next-generation firewall and unified threat management (UTM).
+SOLUTIONS
+Sophos offers a set of complementary solutions for APT, which comprise: Sophos XG Firewall,
+for network protection, Sophos Endpoint Protection for workstations and mobile devices, and
+Sophos Labs which provides unified threat intelligence across all platforms. Sophos also offers
+Intercept X, a signature-less next generation endpoint protection product (EPP) which has been
+integrated into the existing endpoint protection solution. Sophos Intercept X can also be
+deployed alongside competing AV products
+
+Sophos XG Firewall - is an integrated network security system that combines a next-gen
+firewall and IPS with web, email, remote access, and wireless security functionality. It includes
+Advanced Threat Protection through:
+o Sandboxing – which analyzes and “detonates” suspicious content in a safe, cloud-based
+environment to identify and block previously unseen threats.
+o Suspicious traffic detection – which identifies when an endpoint is trying to communicate
+with a malicious server. Once detected, the firewall blocks the traffic and notifies the
+administrator. This lets organizations detect the presence of compromised endpoints and
+prevent attacks from spreading, ex-filtrating data, or receiving commands.
+Intrusion Prevention System – which can identify and block APTs attempting to enter the
+network, or move laterally across the network by exploiting vulnerabilities in servers and
+systems.
+Sophos Endpoint Protection – is a suite of endpoint security solutions designed to prevent,
+detect, and remediate threats. It is available as a cloud-managed SaaS offering or on-premises
+solution. It helps administrators reduce the attack surface through features such as application
+control, device control, and web filtering. It uses an integrated system of security technologies
+that correlates application behavior, website reputation, file characteristics, network activity
+(including Malicious Traffic Detection), and more to identify and block exploits and previously
+unseen malware. It is controlled by the Sophos System Protection (SSP), which automatically
+applies the correct protection mechanisms based on the threat. Cleanup and quarantine
+capabilities neutralize detected threats and help return users’ systems to a clean state. This is
+supplemented by Sophos Intercept X, which provides deep learning malware detection, advanced
+anti-exploit capabilities, anti-ransomware protection, and Root Cause Analysis.
+Sophos Labs – is the company’s global research network, which collects, correlates, and
+analyzes endpoint, network, server, email, web, and mobile threat data across Sophos’s entire
+customer base. It simplifies configuration by feeding advanced threat intelligence directly into
+Sophos products in the form of preconfigured settings and rules. This allows systems to be
+deployed quickly without the need for dedicated, trained security staff to update and test the
+configuration over time.
+Sophos’ Firewall-OS (SF-OS) runs on SG Series appliances and includes synchronized security
+technology, which integrates endpoint and network security for protection against advanced
+threats. For instance, SF-OS Sophos SG Series Appliances can link the next-generation firewall with Sophos Endpoint Protection through its Security Heartbeat synchronized security
+technology, which enables the network and endpoint to correlate health, threat, and security
+indicators for prevention, detection, actionable alerting, and remediation. This provides
+automated incident response that can restrict network access to endpoints on which malware has
+been detected, or that have had their endpoint agent disabled. It also extends Firewall Advanced
+Threat Protection so that when it sees malicious traffic from an endpoint, it can engage Endpoint
+Protection to verify and clean up the infection. The SF-OS comes preinstalled on Sophos XG
+Firewall Series appliances.
+
+STRENGTHS
+• Sophos synchronized security integrates Endpoint and Network security for protection
+against APTs through automation of threat discovery, investigation, and response.
+• Synchronized Application Control explicitly identifies all networked applications (including
+APTs and malware) by sharing application information between endpoint and firewall. This
+eliminates the issue with signature-based app control that often categorize the majority of app
+traffic as generic HTTP or HTTPS.
+• Sophos APT solutions emphasize simplicity of configuration, deployment, and management
+to minimize the time and expertise required to use the solutions.
+• Sophos solutions can remove malware and remnants of malware from compromised
+endpoints, where other vendors may only issue an alert or temporarily block malicious code.
+• Sophos offers real-time threat intelligence between the Sophos XG Firewall and Sophos
+Endpoint Protection solutions for faster, more cohesive APT protection.
+• Sophos Sandstorm was recently upgraded to use Deep Learning technology, which can help
+detect zero-day threats faster and more accurately. Sophos Sandstorm integrates with Sophos
+Firewall/Email and Web solutions.
+• Sophos offers a full-featured EMM solution for iOS, Android, and Windows Phone, along
+with integrated threat protection for Android. Sophos Mobile Control and Sophos UTM
+combine to provide stronger security.
+Sophos UTM and endpoint protection solutions are attractively priced for the mid-market.
+WEAKNESSES
+• While Sophos APT solutions’ forensic analysis capabilities are used within the product for
+automated detection and remediation, not all the information is exposed to administrators.
+• In pursuit of simplicity, Sophos solutions sometimes favor features and rule sets that are
+configured automatically by SophosLabs, over providing administrators with granular, do-it yourself controls.
+• Currently, Sophos’ application whitelisting is limited to servers; the company does, however,
+offer category-based application control for workstations.
+• Sophos does not currently offer a CASB solution, or APIs for integration with third party
+CASB solutions. However the vendor has this on its near-term roadmap.
+• Sophos does not currently offer a full EDR solution, however, Intercept X does offer some
+capabilities, through its Root Cause Analysis feature, that are typically part of an EDR
+solution.
+• For remediation, Sophos currently offers capabilities to block, quarantine and remove
+malware and associated remnants but it does not offer full device reimaging capabilities.
