@@ -1,0 +1,85 @@
+Fortinet
+Fortinet is in the Challengers quadrant. The vendor continues to grow its market share in the WAF appliance
+segment, with improved security capabilities. It is slowly catching up on the cloud WAF segment, with an initial
+release in 2017.
+Based in Sunnyvale, California, Fortinet is a large firewall vendor that offers a broad portfolio of security and network
+solutions. The vendor’s almost 5,000 employees include approximately 1,000 in R&D. Fortinet’s portfolio includes a
+firewall (FortiGate) that constitutes most of the vendor’s revenue, a WAF (FortiWeb), a threat intelligence service
+(Fortinet TIS), a SIEM (FortiSIEM), and a sandbox (FortiSandbox). FortiWeb is available as a physical or virtual
+(FortiWeb-VM) appliance, and on AWS and Azure IaaS platforms. FortiWeb subscriptions include IP reputation,
+antivirus, security updates (signatures and machine learning models), credential stuffing defense and cloud
+sandboxing (FortiSandbox).
+Recent Fortinet’s corporate strategy shift articulates the concept they named “Security Fabric.” It consists of
+integrating many solutions from Fortinet’s portfolio with, for example, unified visibility gained collecting telemetry
+from every deployed product.
+In late 2017, Fortinet launched a first version of a cloud WAF service (FortiWeb Cloud). FortiWeb 6.0, released in May
+2018, integrates closely with the FortiGate FortiOS 6.0. This release adds machine learning algorithms to improve
+anomaly detection, which deprecates the automatic application learning. FortiWeb now support Google Cloud and
+VirtualBox hypervisor.
+FortiWeb is a good shortlist candidate for organizations looking for a WAF appliance, especially when deployed in
+hybrid scenarios, and for Fortinet’s existing customers.
+Strengths
+appliance product line.
+Sales Execution: FortiWeb’s visibility in shortlists has improved, especially in Fortinet’s ■ customer base.
+Capabilities: Fortinet delivers strong threat intelligence, supported by the large team of its Fortiguard Labs, a
+shared resource for all Fortinet’s products. The vendor has strong ability to quickly deliver, and automatically
+deploy new targeted signatures, even before the attacks have gained enough scale to be visible globally. With
+FortiWeb 6.0, security analysts can search for attacks usingcommon vulnerabilities and exposures (CVE) IDs.
+■
+Marketing Strategy: Fortinet applies the same strategy to FortiWeb that drove FortiGate’s success. It offers a
+comprehensive portfolio of hardware appliances (eight models, ranging from 25 Mbps to 20 Gbps), and it wins on
+good price/performance ratio. The vendor also improves its WAF by leveraging global R&D efforts, to quickly
+mature its WAF solution, despite being a relatively recent entrant on the market. Recent release of FortiWeb
+Cloud now offers a solution to Fortinet’s large customer base of midmarket enterprises.
+■
+Capabilities: FortiWeb’s recent use of machine learning algorithms to complement ad hoc signatures and detect
+attacks from their behavior is promising. The syntax analysis pass on the request helps catch false alerts that
+could result from the new technique.
+■
+Capabilities: FortiWeb is a good choice to protect file-sharing services, because it offers comprehensive options
+and integration for malware detection. The WAF can inspect for malware, as well as integrate with Fortinet’s
+sandboxing solutions.
+■
+Cautions
+Imperva
+Imperva is in the Leaders quadrant. The vendor is one of the most visible in both the appliance and cloud WAF
+service segments. Imperva frequently wins on the basis of security features and innovation. Imperva can provide
+strong WAF functionality as a traditional appliance and cloud WAF service, but faces stronger competition for its
+cloud offering.
+Imperva is an application, database and file security vendor, with headquarters in Redwood Shores, California. Its
+portfolio includes database security products (SecureSphere Data Protection and Database Audit and
+CounterBreach), a WAF appliance (SecureSphere WAF), and a cloud WAF service (Incapsula). Imperva also offers
+managed security services and managed SOC.
+SecureSphere can be delivered as physical and virtual appliances. It is also available on AWS and Microsoft Azure
+marketplaces. The vendor also offers managed rule sets for AWS WAF.
+In recent months, Imperva saw changes in its executive team, including a new CEO and CFO, followed by an internal
+reorganization to refocus on a cloud-first strategy. The company recently announced the acquisition of Prevoty, a
+RASP vendor. The vendor continued its investment in Incapsula infrastructure with new points of presence, refreshed
+some SecureSphere hardware appliances, and released Attack Analytics, a new real-time event management
+solution for Imperva SecureSphere and Incapsula.
+Imperva is a good shortlist candidate for all kind of organizations, especially large enterprises looking for highsecurity
+WAF appliances, or organizations planning to transition their applications from on-premises to the cloud.
+Cloud WAF Service: Fortinet has been late releasing a first version of a cloud WAF service, which is still
+unproven, especially in its ability to avoid and mitigate false alerts. FortiWeb Cloud has more limited capabilities
+than its appliance counterpart, and it lacks available peer references.
+■
+Organization: The vendor has a modest increase of its WAF R&D department this year. Its investment in WAF
+remains less important than for other products in Fortinet’s portfolio, and is relatively small, compared with some
+of its direct competitors.
+■
+Market Segmentation: Fortinet is not yet visible in shortlists for web-scale organizations trying to protect their
+core business-critical applications, and for cloud-native web applications that heavily leverage continuous
+integration.
+■
+Customer Experience: Some customers would like Fortinet to go one step further and unify the centralized
+management for WAF and firewall. Today, you need two separate management platforms for FortiWeb and
+FortiGate. They also would like better documentation in the form of “how-to,” especially on recent features, and
+better change control.
+■
+Capabilities: FortiWeb lags behind leaders in bot mitigation. The vendor does not offer, nor does it integrate with
+DDoS protection service.
+■
+Capabilities: FortiWeb’s machine learning does not work in high-availability deployments. In the initial version, the
+UI exposes a lot of the internal mechanics behind the machine learning engine. Although it compares nicely with
+other vendors’ “black box” approaches, and this helps with the credibility of the engine, which can be intimidating
+and lengthen the learning curve
