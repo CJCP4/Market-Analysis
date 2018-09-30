@@ -1,0 +1,43 @@
+VMware
+Based in Palo Alto, California, VMware provides software solutions for cloud infrastructure and digital workspaces.
+NSX is its network virtualization platform, consisting of a controller and virtual switches running in each hypervisor.
+NSX creates an SDN overlay that enables communication across virtualized workloads. The NSX overlay can run on
+top of any physical network underlay. Connectivity to nonvirtualized resources, like bare-metal servers or physical
+appliances, is achieved through servers acting as gateways or through physical switches from certified technology
+partners, which can be controlled by NSX and act as VxLAN Tunnel Endpoints (VTEPs). In 2016, VMware focused on
+improving NSX manageability and operations through better correlation between the overlay and the underlay, and
+also through the acquisition of Arkin Net. VMware is leveraging its strength in the virtualization market to promote
+NSX, especially when clients are renewing their vSphere licenses, which resulted in a total installed base of more
+than 2,400 customers and 850 production deployments. In 2016, VMware extended its virtual networking and security
+to the cloud and announced a partnership with Amazon Web Services (AWS) where NSX will be a key component of
+its cloud stack, enabling enterprises to move workloads from the on-premises VMware private cloud to the VMware
+public cloud environment hosted by AWS.
+NSX should be considered by all organizations evaluating network overlay solutions, especially existing VMware
+virtualization customers that are looking to build a software-defined data center (SDDC) or a private/hybrid cloud.
+Strengths
+Cautions
+The vendor has not achieved certification for VMware vRealize integration, which other ■ competitors have.
+■ Customers have experienced challenges due to product updates, including upgrades to its fabric software, IRF.
+VMware is a leader in server virtualization, and its virtual switches are widely deployed, reliable and well-known by
+customers.
+■
+NSX is a software solution that can be easily piloted and deployed gradually, with no hardware dependencies,
+although it provides integration capabilities with switches from certified NSX technology partners.
+■
+NSX microsegmentation leverages each vSwitch as a stateful Layer 3/Layer 4 distributed virtual firewall to
+increase intra-data-center security, providing centralized control and policies.
+■
+VMware is a software company with solutions for infrastructure virtualization that go beyond networking. Its
+ability to integrate NSX with other software platforms provides it with strong differentiation from vendors focused
+solely on networking.
+■
+Gartner has observed that many clients find NSX expensive at scale, although in 2016, VMware introduced three
+feature sets (Standard, Advanced and Enterprise) with increasing capabilities and cost to enable a more granular
+selection.
+■
+VMware cannot provide a complete solution that includes the physical network; customers must deal with other
+networking vendors to purchase hardware.
+■
+There are two different NSX codebases: NSX for vSphere and NSX-T for other hypervisors that customers receive
+with their NSX license. Customers must choose the best fit while recognizing that NSX-T will constitute the basis
+for a future unified codebase, necessitating some future software and feature changes.
